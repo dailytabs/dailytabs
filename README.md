@@ -16,5 +16,5 @@ Notes
 * To remove a site before it's end date, edit the 'tabList' JSON array stored in:
     <dl>
       <dt>Linux</dt>
-      <dd>~/.mozilla/firefox/<profile>/jetpack/dailytabs@gmail.com/simple-storage/store.json</dd>
+      <dd>~/.mozilla/firefox/&lt;profile&gt;/jetpack/dailytabs@gmail.com/simple-storage/store.json</dd>
     </dl>
