@@ -53,7 +53,7 @@ function showError(text) {
     self.port.emit("panel_resize", { "width": 215, "height": 111 });
     document.getElementById("daily-tabs-add-end").insertBefore(error, em);
   }
-  error.innerHTML = text;
+  error.textContent = text;
 }
 
 var ac = document.getElementById("daily-tabs-add-current");
